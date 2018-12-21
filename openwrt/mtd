@@ -1,0 +1,7 @@
+dev:    size   erasesize  name
+mtd0: 00020000 00020000 "loader1"
+mtd1: 007e0000 00020000 "kernel"
+mtd2: 00020000 00020000 "loader2"
+mtd3: 007e0000 00020000 "recovery"
+mtd4: 06fe0000 00020000 "ubi"
+mtd5: 00020000 00020000 "origcaldata"
